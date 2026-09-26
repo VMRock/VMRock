@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a versatile Software Developer and Unity Game Developer with a sharp eye for quality assurance as a Copyright Screener and Application Tester.<br><br>🎮 Game Dev: Crafting immersive experiences in Unity.<br><br>💻 Software Engineering: Building robust applications and scalable systems.<br><br>🔍 Quality & Testing: Ensuring top-tier reliability through comprehensive API and Component Testing.<br><br>⚖️ Compliance: Reviewing digital assets and media as a Copyright Screener.<br><br>
+👋 Hi there! I'm a versatile Unity Game Developer and Application Tester.<br><br>🎮 Game Dev: Crafting immersive experiences in Unity.<br><br>💻 Software Engineering: Building robust applications and scalable systems.<br><br>🔍 Quality & Testing: Ensuring top-tier reliability through comprehensive API and Component Testing.<br><br>⚖️ Compliance: Reviewing digital assets and media as a Copyright Screener.<br><br>
 
 
 ## 🌐 Socials:
